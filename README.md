@@ -1,2 +1,4 @@
 # Final
 The purpose of this project is to build a model, for myself and others who wish to use or replicate this model, with the intention of predicting the quality of a wine based on physicochemical tests. The dataset I have chosen to work with for this midterm is from Kaggle. The dataset, “winequality-red’, refers to a CSV file composed of data pertaining to various instances of “vihno verde,” a unique brand of wine from Mihno, Northeast Portugal. The data was compiled by a team of researchers (Cortez et al. Nov 2009) who wished to model human wine taste preferences by data mining physicochemical properties of the wines. I find this dataset interesting to work with because I am curious to see how well a model will perform when it comes to predicting the quality of a wine given various physicochemical properties of the wines.
+
+Python 3.9.12
